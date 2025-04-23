@@ -9,11 +9,6 @@ Welcome to **ThirtySix Studio**, a modern, minimalistic agency portfolio built w
 - [About the Project](#about-the-project)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## About the Project
@@ -33,21 +28,3 @@ ThirtySix Studio aims to blend modern design principles with seamless animations
 - **Smooth Animations:** Animated page transitions and interactive elements powered by GSAP.
 - **Minimalistic UI:** Clean, focused design with intuitive navigation.
 - **Reusable Components:** Built with reusable and customizable React components.
-
----
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have **Node.js** and **npm** installed.
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/asynchronousJavascriptor/thirtysixstudio.git
-   cd thirtysixstudio
-   npm install
-   npm run dev
-   server starts on localhost:5173
